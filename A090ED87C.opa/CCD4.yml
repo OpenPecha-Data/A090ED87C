@@ -1,0 +1,30 @@
+segment_sources:
+  I3D1EF4DA:
+    type: origin_type
+    relation: translation
+    base: A996
+    lang: en
+  I120E1D8E:
+    type: origin_type
+    relation: translation
+    base: 96C8
+    lang: bo
+segment_pairs:
+  af8a298325d641a2b40d97a6d9f779a8:
+    I3D1EF4DA: 5f89109d961043928b8e67130a5f9c10
+    I120E1D8E: f552f4e75ec34d6e941bc69c6eaeb290
+  c7df4a888d264790b7ea6af11ad2f5e6:
+    I3D1EF4DA: 93008f67606b4ad2bed253b381c38219
+    I120E1D8E: 5ffdfc7f28f2425f86688cfeb9d68e7e
+  513d8433e5df4702abfb82f6d6996933:
+    I3D1EF4DA: 2ffe43ea219c437eac2653774f8d7a8a
+    I120E1D8E: 0dc86ed36ac64c1890f7c16ef7f22e04
+  b3fb1208426f430c8770de7bbd7df371:
+    I3D1EF4DA: b1a32fa301e04de1823d806218472b9d
+    I120E1D8E: 48439d7ff28a4fc9a01ada7f1683d200
+  d57b88070df545838c3ad566a92f5039:
+    I3D1EF4DA: f923bcddb502409992612a45a9c658bd
+    I120E1D8E: 7c32cb1d302944b9aa5729b8128942db
+  bef671e8e0f74b0683a534a667e21662:
+    I3D1EF4DA: b130008177f34b58a86e415bc4a4fa3b
+    I120E1D8E: 12d1f0f61be04abeb9c01700ab994007
